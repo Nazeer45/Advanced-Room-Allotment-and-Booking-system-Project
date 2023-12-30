@@ -1,4 +1,4 @@
-Implemented a "Advanced Room Allotment and Booking System" in C++ using object-oriented programming principles. 
+Implemented "Advanced Room Allotment and Booking System" in C++ using object-oriented programming principles. 
 The system allows users to perform various tasks related to conference room management, such as installation of rooms, 
 reservation of seats, displaying vacant seats, and checking available rooms.
 
