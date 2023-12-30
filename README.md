@@ -19,7 +19,7 @@ Implementation of a basic reservation system with visual representation
 
 Usage of C++ Concepts:
 
-Classes and Objects
-Arrays and Strings
-File Handling (Reading and Writing)
-Looping and Decision-making constructs
+Classes and Objects,
+Arrays and Strings,
+File Handling (Reading and Writing),
+Looping and Decision-making constructs.
